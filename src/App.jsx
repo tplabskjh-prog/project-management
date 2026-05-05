@@ -1283,7 +1283,7 @@ export default function App() {
                         }}
                       >
                         <img 
-                          src="/metro_map.png" 
+                          src="./metro_map.png" 
                           alt="" 
                           className="absolute inset-0 w-full h-full object-contain pointer-events-none transition-all duration-300"
                           style={{
